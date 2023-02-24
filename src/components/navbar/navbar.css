@@ -17,6 +17,7 @@
    margin-right: 2rem;
 }
 
+
 .gpt3__navbar-links_logo img {
    width: 62.56px;
    height: 16.02px;
@@ -48,6 +49,7 @@
    cursor: pointer;
 }
 
+
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
    padding: 0.5rem 1rem;
@@ -62,6 +64,8 @@
    outline: none;
    cursor: pointer;
 }
+
+/* ICON STYLES */
 
 .gpt3__navbar-menu {
    margin-left: 1rem;
@@ -97,7 +101,7 @@
 
 .gpt3__navbar-menu_container-links-sign {
    display: none;
-}
+} 
 
 
 /* Tablets */
